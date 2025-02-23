@@ -1,0 +1,22 @@
+{
+  "name": "youtube-backend",
+  "version": "1.0.0",
+  "description": "A Project to build scalable and robust backend similar to youtube",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "backend",
+    "mongoose",
+    "mongodb"
+  ],
+  "author": "Prabhu Kalyan Korivi",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
